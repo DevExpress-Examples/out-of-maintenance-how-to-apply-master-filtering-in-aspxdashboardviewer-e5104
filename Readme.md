@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [WebForm1.aspx](./CS/Dashboard_SetMasterFilter/WebForm1.aspx) (VB: [WebForm1.aspx](./VB/Dashboard_SetMasterFilter/WebForm1.aspx))
+<!-- default file list end -->
 # How to apply master filtering in ASPxDashboardViewer
 
 
